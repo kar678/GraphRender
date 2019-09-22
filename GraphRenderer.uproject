@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{08E11850-473F-8ABA-9C5D-5A97334826C5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GraphRenderer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
